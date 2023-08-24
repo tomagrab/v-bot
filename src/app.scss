@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './Style/color';
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.info-box {
+    border-color: $orange;
+    background-color: $dark;
+    color: white;
+
+    &__title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+      }
+    
+      &__subtitle {
+        font-size: 1rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+      }
+    
+      &__text {
+        font-size: 0.875rem;
+        font-weight: 400;
+        margin-bottom: 0.5rem;
+      }
+  }
