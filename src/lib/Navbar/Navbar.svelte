@@ -18,13 +18,18 @@
       ></label
     >
   </div>
-  <div class="navbar-cemter">
+  <div class="navbar-center">
     <a class="btn btn-ghost normal-case text-xl" href="/"
       >V-Bot - An AI Chatbot</a
     >
   </div>
   <div class="navbar-end">
-    <img src="/logo.png" alt="V-Track Logo" width="200" />
+    <img
+      class="hidden md:block"
+      src="/logo.png"
+      alt="V-Track Logo"
+      width="200"
+    />
   </div>
 </div>
 
