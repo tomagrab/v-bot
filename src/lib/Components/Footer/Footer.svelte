@@ -19,7 +19,7 @@
         /></svg
       >
     </a>
-    <a href="https://www.facebook.com/velocitorsolutions" target="_blank"
+    <a href="https://www.youtube.com/@velocitorsolutions8931" target="_blank"
       ><svg
         xmlns="http://www.w3.org/2000/svg"
         width="24"
@@ -31,7 +31,7 @@
         /></svg
       ></a
     >
-    <a href="https://www.youtube.com/@velocitorsolutions8931" target="_blank"
+    <a href="https://www.facebook.com/velocitorsolutions" target="_blank"
       ><svg
         xmlns="http://www.w3.org/2000/svg"
         width="24"
