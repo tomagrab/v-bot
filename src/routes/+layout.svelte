@@ -32,6 +32,7 @@
       <li><a href="/Features">Features</a></li>
       <li><a href="/Information">Information</a></li>
       <li><a href="/FAQs">FAQs</a></li>
+      <li><a href="/Privacy">Privacy</a></li>
     </ul>
   </div>
 </div>
