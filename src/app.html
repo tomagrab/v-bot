@@ -10,5 +10,18 @@
 	</head>
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">%sveltekit.body%</div>
+		<script>
+			window.watsonAssistantChatOptions = {
+			  integrationID: "4b706134-754f-442d-a3cb-4879ffae856c", // The ID of this integration.
+			  region: "us-south", // The region your integration is hosted in.
+			  serviceInstanceID: "556127cc-df45-4572-920e-7939b3a02a72", // The ID of your service instance.
+			  onLoad: function(instance) { instance.render(); }
+			};
+			setTimeout(function(){
+			  const t=document.createElement('script');
+			  t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+			  document.head.appendChild(t);
+			});
+		  </script>
 	</body>
 </html>
