@@ -1,3 +1,14 @@
+<div class="info-box w-2/5 mb-4 border-4 rounded p-4 mt-4">
+  <h3 class="info-box__title">Information</h3>
+  <p class="info-box__text">
+    V-Bot is a virtual assistant that is designed to answer questions related to
+    V-Track. V-Bot is built on the IBM Watson Assistant platform and is trained
+    to answer questions related to V-Track. V-Bot is designed to provide users
+    with a seamless, efficient, and enriched experience when navigating V-Track
+    Web.
+  </p>
+</div>
+
 <div class="grid grid-cols-2">
   <div class="flex flex-col px-8 border-r">
     <div class="info-box w-full border-4 rounded p-4 mt-4">

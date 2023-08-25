@@ -1,3 +1,12 @@
+<div class="info-box w-2/5 mb-4 border-4 rounded p-4 mt-4">
+  <h3 class="info-box__title">FAQs</h3>
+  <p class="info-box__text">
+    V-Bot is well-equipped to answer a vast array of frequently asked questions
+    related to various categories such as VEDR & V-COMM, Drivers & Vehicles,
+    Account & Billing, Key Indicators, V-Track Reader, and more:
+  </p>
+</div>
+
 <div class="grid grid-cols-2">
   <div class="flex flex-col px-8 border-r">
     <div class="info-box w-full border-4 rounded p-4 mt-4">

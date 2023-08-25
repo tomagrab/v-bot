@@ -1,6 +1,15 @@
-<div class="info-box w-2/5 border-4 rounded p-4 mt-4">
-  <h3 class="info-box__title">User Guide</h3>
+<div class="info-box w-3/5 border-4 rounded p-4 mt-4">
+  <h2 class="info-box__title">User Guide</h2>
+  <p class="info-box__text">
+    V-Bot is an AI-powered chatbot that can assist you with any questions you
+    may have about V-Track. V-Bot is available 24/7 and can be accessed from
+    anywhere on the V-Track web. Below you will find the steps for accessing and
+    using V-Bot:
+  </p>
+</div>
 
+<div class="info-box w-2/5 border-4 rounded p-4 mt-4">
+  <h2 class="info-box__subtitle">Quickstart:</h2>
   <ul class="info-box__text">
     <li>
       1. Navigate to <a

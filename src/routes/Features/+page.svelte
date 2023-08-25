@@ -10,7 +10,7 @@
 <div class="grid grid-cols-2">
   <div class="flex flex-col px-8 border-r">
     <div class="info-box w-full border-4 rounded p-4 mt-4">
-      <h3 class="info-box__subtitle">1. Adaptive Learning</h3>
+      <h3 class="info-box__subtitle">Adaptive Learning</h3>
       <ul class="info-box__text">
         <li>- Harnesses IBM Watson's advanced machine learning algorithms.</li>
         <li>- Grows its knowledge base with each interaction.</li>
@@ -19,7 +19,7 @@
     </div>
 
     <div class="info-box w-full border-4 rounded p-4 mt-4">
-      <h3 class="info-box__subtitle">2. Instant Feedback Loop</h3>
+      <h3 class="info-box__subtitle">Instant Feedback Loop</h3>
       <ul class="info-box__text">
         <li>- Users can provide direct feedback on the bot's responses.</li>
         <li>- Allows for real-time modifications to enhance accuracy.</li>
@@ -27,7 +27,7 @@
     </div>
 
     <div class="info-box w-full border-4 rounded p-4 mt-4">
-      <h3 class="info-box__subtitle">3. Integration with Live Agents</h3>
+      <h3 class="info-box__subtitle">Integration with Live Agents</h3>
       <ul class="info-box__text">
         <li>
           - Users can seamlessly switch from interacting with V-Bot to a live
@@ -39,7 +39,7 @@
   </div>
   <div class="flex flex-col px-8">
     <div class="info-box w-full border-4 rounded p-4 mt-4">
-      <h3 class="info-box__subtitle">4. Comprehensive FAQ Support</h3>
+      <h3 class="info-box__subtitle">Comprehensive FAQ Support</h3>
       <ul class="info-box__text">
         <li>
           - V-Bot is well-equipped to answer a vast array of frequently asked
@@ -51,7 +51,7 @@
     </div>
 
     <div class="info-box w-full border-4 rounded p-4 mt-4">
-      <h3 class="info-box__subtitle">5. Dynamic Knowledge Update</h3>
+      <h3 class="info-box__subtitle">Dynamic Knowledge Update</h3>
       <ul class="info-box__text">
         <li>- Real-time updates to V-Bot's knowledge base.</li>
         <li>
