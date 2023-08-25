@@ -24,12 +24,14 @@
     >
   </div>
   <div class="navbar-end">
-    <img
-      class="hidden md:block"
-      src="/logo.png"
-      alt="V-Track Logo"
-      width="200"
-    />
+    <a href="https://vtrack.velsol.com/" target="_blank">
+      <img
+        class="hidden md:block"
+        src="/logo.png"
+        alt="V-Track Logo"
+        width="200"
+      />
+    </a>
   </div>
 </div>
 
