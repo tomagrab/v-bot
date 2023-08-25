@@ -1,5 +1,5 @@
 <script lang="ts">
-  import AnimatedRoute from "$lib/Components/AnimatedRoute/AnimatedRoute.svelte";
+  import AnimatedRoute from "$lib/Components/AnimatedRoute/SlideFromLeft.svelte";
   import Footer from "$lib/Components/Footer/Footer.svelte";
   import Navbar from "$lib/Components/Navbar/Navbar.svelte";
   import "../app.scss";
