@@ -9,8 +9,8 @@
   </p>
 </div>
 
-<div class="grid grid-cols-2">
-  <div class="flex flex-col px-8 border-r">
+<div class="grid md:grid-cols-2 sm:grid-cols-1">
+  <div class="flex flex-col px-8 md:border-r md:border-neutral-50">
     <div class="info-box w-full border-4 rounded p-4 mt-4">
       <h2 class="info-box__title">Continuous Evolution</h2>
       <h3 class="info-box__subtitle">Integration Dynamic</h3>

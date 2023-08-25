@@ -36,7 +36,7 @@
     </li>
     <li>
       7. If V-bot still cannot answer your question, you can connect to a live
-      agent by repying "Agent"
+      agent by replying "Agent"
     </li>
   </ul>
 </div>
