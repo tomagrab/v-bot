@@ -1,6 +1,10 @@
 <script lang="ts">
+  import VBotSiteAssistant from "$lib/Components/VBotSiteAssistant/VBotSiteAssistant.svelte";
   import PageLoadFade from "$lib/Components/AnimatedRoute/PageLoadFade.svelte";
+  export let title: string = "Features";
 </script>
+
+<VBotSiteAssistant {title} />
 
 <PageLoadFade>
   <div class="flex flex-col items-center">

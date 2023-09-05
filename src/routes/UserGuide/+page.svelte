@@ -1,3 +1,11 @@
+<script lang="ts">
+  import VBotSiteAssistant from "$lib/Components/VBotSiteAssistant/VBotSiteAssistant.svelte";
+
+  export let title: string = "User Guide";
+</script>
+
+<VBotSiteAssistant {title} />
+
 <div class="info-box w-3/5 border-4 rounded p-4 mt-4">
   <h2 class="info-box__title">User Guide</h2>
   <p class="info-box__text">
